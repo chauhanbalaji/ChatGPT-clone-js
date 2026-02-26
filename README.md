@@ -20,7 +20,6 @@ A ChatGPT clone built with  JavaScript, Express, and Groq AI.
 
 **Backend:**
 - Node.js
-- Express.js
 - Groq SDK
 - Tavily API
 - node-cache
@@ -41,3 +40,4 @@ cd chatgpt-clone
 npm install
 
 npm install express cors groq-sdk @tavily/core node-cache dotenv
+
